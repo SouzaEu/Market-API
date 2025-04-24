@@ -1,4 +1,6 @@
 # Medieval Market API
+# RM556972 GABRIEL DUARTE
+# RM556089 VINICIUS SOUZA
 
 A RESTful API for a medieval fantasy marketplace built with Spring Boot.
 
