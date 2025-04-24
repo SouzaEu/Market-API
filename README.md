@@ -10,43 +10,6 @@ This API provides a complete backend for managing characters and items in a medi
 - **Item API**: Full CRUD functionality for magical items with owner relationship to characters.
 - **Search API**: Advanced filtering capabilities for both characters and items.
 
-## Project Structure
-
-\`\`\`
-src/
-├── main/
-│   ├── java/com/market/medieval/
-│   │   ├── MedievalMarketApplication.java
-│   │   ├── controller/
-│   │   │   ├── CharacterController.java
-│   │   │   └── ItemController.java
-│   │   ├── model/
-│   │   │   ├── Character.java
-│   │   │   └── Item.java
-│   │   ├── repository/
-│   │   │   ├── CharacterRepository.java
-│   │   │   └── ItemRepository.java
-│   │   ├── service/
-│   │   │   ├── CharacterService.java
-│   │   │   └── ItemService.java
-│   │   ├── dto/
-│   │   │   ├── CharacterDTO.java
-│   │   │   └── ItemDTO.java
-│   │   ├── exception/
-│   │   │   └── GlobalExceptionHandler.java
-│   │   └── config/
-│   │       └── WebConfig.java
-│   └── resources/
-│       └── application.properties
-└── test/
-    └── java/com/market/medieval/
-        ├── controller/
-        │   ├── CharacterControllerTest.java
-        │   └── ItemControllerTest.java
-        └── service/
-            ├── CharacterServiceTest.java
-            └── ItemServiceTest.java
-\`\`\`
 
 ## API Endpoints
 
