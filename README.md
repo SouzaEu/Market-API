@@ -1,7 +1,5 @@
 # Medieval Market API
 
-Uma API REST para gerenciar personagens e itens de um mercado de fantasia medieval, feita com Spring Boot.
-
 ## Sobre o projeto
 
 A **Medieval Market API** foi desenvolvida para simular um marketplace de fantasia, permitindo a criação, atualização, listagem e exclusão de personagens e itens mágicos. Também conta com filtros de busca avançados para facilitar a gestão dos recursos.
